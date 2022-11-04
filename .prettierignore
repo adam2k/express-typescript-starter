@@ -1,0 +1,15 @@
+# Ignore artifacts:
+.circleci
+.env
+coverage
+dist
+build
+node_modules
+src/schema/generated
+prisma
+
+package-lock.json
+.zshrc
+
+error.log
+combined.log
